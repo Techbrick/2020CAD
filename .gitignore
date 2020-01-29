@@ -1,0 +1,10 @@
+*.exe
+*.zip
+*.stl
+*.pdf
+*.msi
+*.iso
+*.mp3
+*.wav
+*.lck
+Oldversions/
